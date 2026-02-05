@@ -63,6 +63,13 @@ Whether it’s optimizing database queries, refining API design, or mentoring de
 </p>
 
 
+---
+
+### 🎓 Certifications
+[![APIsec Security Fundamentals](https://images.credly.com/images/1c3c27b4-a1d0-4c5d-a41c-74824bf6d7a1/badge.png)](https://www.credly.com/badges/1c3c27b4-a1d0-4c5d-a41c-74824bf6d7a1/public_url)  
+**APIsec Security Fundamentals** — APIsec University
+
+
 
 ---
 
