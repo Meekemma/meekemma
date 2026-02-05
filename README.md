@@ -12,11 +12,15 @@ My goal is to make technology feel effortless for both users and developers by b
 Beyond code, I bring a **problem-solving mindset**, a **team-first approach**, and a passion for **continuous improvement**.  
 Whether it’s optimizing database queries, refining API design, or mentoring developers, I focus on creating clarity, consistency, and measurable value in every project I touch.
 
+---
+
+### 🎓 Certifications
+[![APIsec Security Fundamentals](https://images.credly.com/images/1c3c27b4-a1d0-4c5d-a41c-74824bf6d7a1/badge.png)](https://www.credly.com/badges/1c3c27b4-a1d0-4c5d-a41c-74824bf6d7a1/public_url)  
+**APIsec Security Fundamentals** — APIsec University
 
 ---
 
 ### 🧠 Tech Stack
-
 
 #### 🧩 Backend & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -59,17 +63,8 @@ Whether it’s optimizing database queries, refining API design, or mentoring de
 </p>
 
 <p align="center">
-  💡 <b>407 contributions in 2025 and counting...</b> 🚀
+  💡 <b>518 contributions in 2025 and counting...</b> 🚀
 </p>
-
-
----
-
-### 🎓 Certifications
-[![APIsec Security Fundamentals](https://images.credly.com/images/1c3c27b4-a1d0-4c5d-a41c-74824bf6d7a1/badge.png)](https://www.credly.com/badges/1c3c27b4-a1d0-4c5d-a41c-74824bf6d7a1/public_url)  
-**APIsec Security Fundamentals** — APIsec University
-
-
 
 ---
 
@@ -78,7 +73,6 @@ Whether it’s optimizing database queries, refining API design, or mentoring de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibeh-emmanuel-81b25b249/)
 [![X (Twitter)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Meek_emma007)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibehemmanuel32@gmail.com)
-
 
 ---
 
